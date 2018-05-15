@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;resttest.Demo&apos; to &apos;Get_By_location&apos;&#x0D;&#x0A;- Original project: &apos;ResttestWebservice&apos;&#x0D;&#x0A;- Original element: &apos;resttest.Demo&apos;&#x0D;&#x0A;- Renamed element: &apos;resttest.Get_By_location&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Demo&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;resttest{Demo.java[Demo" matchStrategy="1" name="Get_By_location" qualified="false" references="true" similarDeclarations="false" stamp="1512353482533" textual="false" version="1.0"/>
+</session>
